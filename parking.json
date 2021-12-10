@@ -1,0 +1,11 @@
+{
+  "parkingName": "Ariel University Parking",
+  "cars": {
+    "222": {
+      "carNum": 222
+    },
+    "111": {
+      "carNum": 111
+    }
+  }
+}
